@@ -5,6 +5,8 @@
   font-style: normal;
 }
 
+body > iframe:first-child { display: none !important; }
+
 body {
   margin: 0;
   background-color: #f1f9f9;
